@@ -1,0 +1,37 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 古音表
+#+DATE: 2018-03-28 13:09:58.129316
+#+PROPERTY: ID KR1j0082
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: WITNESS WYG    
+#+PROPERTY: JUAN 卷上
+<pb:KR1j0082_WYG_001-1a>¶
+欽定四庫全書¶
+　古音表卷上　　　　　　崑山顧炎武撰¶
+東冬鍾江第一(舉平以該上去入)¶
+¶
+<pb:KR1j0082_WYG_001-1b>¶
+　　　　　　　　　　　　　　　　　　　　　¶
+<pb:KR1j0082_WYG_001-2a>¶
+<pb:KR1j0082_WYG_001-2b>¶
+　　　　　　　　　　　　　　　　　　　　　¶
+　古音表卷上¶
+<pb:KR1j0082_WYG_001-3a>¶
+¶
+卷下¶
+欽定四庫全書¶
+　古音表卷下　　　　　　崑山顧炎武撰¶
+蕭宵肴豪幽第五¶
+¶
+<pb:KR1j0082_WYG_001-3b>¶
+　　　　　　　　　　　　　　　　　　　　　¶
+<pb:KR1j0082_WYG_001-4a>¶
+<pb:KR1j0082_WYG_001-4b>¶
+　　　　　　　　　　　　　　　　　　　　　　¶
+¶
+蒸登第九¶
+¶
+<pb:KR1j0082_WYG_001-5a>¶
+<pb:KR1j0082_WYG_001-5b>¶
+　　　　　　　　　　　　　　　　　　　　　¶
+　古音表卷下¶
